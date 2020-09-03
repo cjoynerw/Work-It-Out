@@ -35,5 +35,6 @@ background: linear-gradient(0deg, rgba(6,6,9,1) 0%, rgba(113,113,113,1) 50%, rgb
 #yoda {
     margin: auto;
     position: absolute;
+    height: 50%;
     top: 0; left: 0; bottom: 0; right: 0;
 }
