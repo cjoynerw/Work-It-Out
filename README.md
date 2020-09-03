@@ -18,5 +18,5 @@ hardware bugs were a consistent and annoying error. The biggest problem I found 
     <li>Create the ability for users to categorize based on the properties of the workout (ie can filter all their chest workouts into one page)</li>
   </ul>
 <h1>Wireframe & ERD (Entity Relationship Diagram)</h1>
-<br />
-![project3erd](https://user-images.githubusercontent.com/66435399/92179909-5b2dca80-ee0b-11ea-8608-63d27906a7d4.jpg)
+
+![project3erd](https://user-images.githubusercontent.com/66435399/92180065-b9f34400-ee0b-11ea-8f13-014fd86e30db.jpg)
