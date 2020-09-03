@@ -19,4 +19,4 @@ hardware bugs were a consistent and annoying error. The biggest problem I found 
   </ul>
 <h1>Wireframe & ERD (Entity Relationship Diagram)</h1>
 <br />
-![project3erd](https://user-images.githubusercontent.com/66435399/92178677-a72b4000-ee08-11ea-9158-d0d621f40c1d.jpg)
+![project3erd](https://user-images.githubusercontent.com/66435399/92179909-5b2dca80-ee0b-11ea-8608-63d27906a7d4.jpg)
