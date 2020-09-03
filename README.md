@@ -22,4 +22,4 @@ hardware bugs were a consistent and annoying error. The biggest problem I found 
 ![project3erd](https://user-images.githubusercontent.com/66435399/92180065-b9f34400-ee0b-11ea-8f13-014fd86e30db.jpg)
 
 <h2>Technologies implemented:</h2>
-<p>cors, dotenv, express, mongoose, axios, bootstrap, react, react-datepicker, react-router-dom, auth0, mongoDB, node.js</p>
+<p>cors, dotenv, express, mongoose, axios, bootstrap, react, react-datepicker, react-router-dom, auth0, mongoDB, node.js, ATLAS</p>
