@@ -1,8 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-Check out my project here:
-<a>https://work-it-outp3.herokuapp.com/</a>
-<br />
 <h1>User Story</h1>
 <p>As someone who consistently is either working out or in physical therapy, I found keeping track of workouts was either a memory game or paper packet carrying simulator. Now I can consolidate all my workouts into one place. User will arrive at the home screen and be given the ability to log in by either creating an account or by logging in with their existing Google account. From there, user will be able to create a "Username" for each workout. Username can take the shape of a name of a person, workout, target of workout, etc. Once user creates a workout, they will be able to edit or delete that workout.</p>
 <h1>Challenges I Faced:</h1>
